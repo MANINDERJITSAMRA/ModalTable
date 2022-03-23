@@ -1,0 +1,16 @@
+p {
+    font-family: Lato;
+  }
+  
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
